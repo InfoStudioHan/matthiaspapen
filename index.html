@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Dr. Matthias Papen | Contact</title>
+  <meta name="robots" content="noindex">
+  <style>
+    :root {
+      --bg: #ffffff;
+      --text: #024880;
+      --muted: #0560aa;
+      --accent: #024880;
+      --accent-hover: #0560aa;
+      --accent-text: #ffffff;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 32px 16px;
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    }
+    main { width: 100%; max-width: 380px; text-align: center; }
+    .logo { display: block; width: 100%; max-width: 280px; height: auto; margin: 0 auto 36px; }
+    h1 { font-size: 1.5rem; font-weight: 600; margin: 0 0 4px; }
+    .titel { margin: 0 0 32px; color: var(--muted); }
+    .knop {
+      display: block;
+      padding: 18px 20px;
+      margin-bottom: 12px;
+      border-radius: 10px;
+      background: var(--accent);
+      color: var(--accent-text);
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 1.05rem;
+      transition: background .15s ease;
+    }
+    .knop:hover, .knop:focus-visible { background: var(--accent-hover); }
+    .knop span { display: block; font-weight: 400; font-size: 0.85rem; opacity: 0.85; margin-top: 2px; }
+    .uitleg { color: var(--muted); font-size: 0.85rem; margin-top: 20px; }
+  </style>
+</head>
+<body>
+  <main>
+    <img class="logo" src="logo.svg" alt="Orthopedie Bonheiden·Lier">
+    <h1>Dr. Matthias Papen</h1>
+    <p class="titel">Heupchirurgie</p>
+
+    <a class="knop" href="ziekenhuis.vcf">
+      Imeldaziekenhuis
+      <span>Bonheiden · Voeg toe aan contacten</span>
+    </a>
+
+    <a class="knop" href="praktijk.vcf">
+      V57 Medical Center
+      <span>Mechelen · Voeg toe aan contacten</span>
+    </a>
+
+    <p class="uitleg">Kies de locatie waarvan je de gegevens wilt bewaren.</p>
+  </main>
+</body>
+</html>

@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Papen - Imeldaziekenhuis;Matthias;;Dr.;
+FN:Dr. Matthias Papen - Imeldaziekenhuis
+ORG:Imeldaziekenhuis;Orthopedie Bonheiden·Lier
+TITLE:Heupchirurgie
+TEL;TYPE=WORK,VOICE:+32 15 50 55 18
+EMAIL;TYPE=INTERNET,WORK:sec.orthopedia@imelba.be
+ADR;TYPE=WORK:;;Imeldalaan 9;Bonheiden;;2820;België
+END:VCARD

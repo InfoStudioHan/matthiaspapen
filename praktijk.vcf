@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Papen - V57 Medical Center;Matthias;;Dr.;
+FN:Dr. Matthias Papen - V57 Medical Center
+ORG:V57 Medical Center;Orthopedie Bonheiden·Lier
+TITLE:Heupchirurgie
+TEL;TYPE=WORK,VOICE:[TELEFOON V57, bv. +32 15 00 00 00]
+EMAIL;TYPE=INTERNET,WORK:[E-MAIL V57]
+ADR;TYPE=WORK:;;Schuttersvest 57;Mechelen;;2800;België
+END:VCARD
